@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile=SQLiteDialect.jar -DgroupId=lt.affecto -DartifactId=hibernate.sqlite -Dversion=1.0 -Dpackaging=jar
